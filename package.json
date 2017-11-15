@@ -1,7 +1,7 @@
 {
 	
 	"name": "censorify_darsh",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"main": "censortext",
 	"repository": {
 		"type": "git",
