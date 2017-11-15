@@ -2,5 +2,15 @@
 	
 	"name": "censorify_darsh",
 	"version": "0.1.1",
-	"main": "censortext"
+	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/darshanjagthap/censorify_darsh"
+	},
+	"keywords": [
+		"darshan",
+		"words",
+		"censor"
+	]
+
 }
